@@ -2,13 +2,10 @@
 coverage_python_version
 ***********************
 
-.. image:: https://img.shields.io/pypi/v/tidypy.svg
-   :target: https://pypi.python.org/pypi/tidypy
-.. image:: https://img.shields.io/pypi/l/tidypy.svg
-   :target: https://pypi.python.org/pypi/tidypy
-
-
-.. contents:: Contents
+.. image:: https://img.shields.io/pypi/v/coverage_python_version.svg
+   :target: https://pypi.python.org/pypi/coverage_python_version
+.. image:: https://img.shields.io/pypi/l/coverage_python_version.svg
+   :target: https://pypi.python.org/pypi/coverage_python_version
 
 
 Overview
