@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='coverage_python_version',
-    version='0.1.0',
+    version='0.2.0',
     description='A coverage.py plugin to facilitate exclusions based on'
     ' Python version',
     long_description=open('README.rst', 'r').read(),
@@ -20,6 +20,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Software Development',
@@ -31,7 +32,7 @@ setup(
     zip_safe=True,
     include_package_data=True,
     install_requires=[
-        'coverage>=4.5,<5',
+        'coverage>=4.5,<6',
     ],
 )
 
